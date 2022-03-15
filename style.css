@@ -1,0 +1,91 @@
+/* general changes */
+
+#work{ 
+    background:blanchedalmond;
+
+}
+
+#features i{
+
+    color:rgb(134, 18, 76);
+    cursor: pointer;
+}
+
+p{
+
+    color: black;
+}
+#features h3:hover{
+
+    color:rgb(134, 18, 76);
+}
+h3{
+
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+
+.nav-item1 {
+
+    margin: 2.5vh;
+
+}
+
+.navbar{
+
+    border-bottom: 3px solid rgb(134, 18, 76);
+}
+
+.navbar .navbar-brand {
+
+color:rgb(134, 18, 76) !important;  
+font-size: 7vh; 
+
+}
+
+
+.navbar-nav .nav-item1 .nav-link { 
+
+    text-transform:uppercase;
+    
+}
+
+.navbar-nav .nav-item .nav-link { 
+
+    text-transform:uppercase;
+}
+
+
+.navbar-nav .nav-item .nav-link:hover {
+
+    color:tomato ;
+
+
+}
+
+
+.navbar-nav .nav-item1 .nav-link:hover {
+
+    color:tomato ;
+
+
+}
+
+#header{
+margin: -3vh -3vh;
+
+   background-size: cover;
+}
+
+#feature  .container{
+
+    display: inline-block;
+   justify-content: center;
+}
